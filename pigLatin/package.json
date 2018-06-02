@@ -1,0 +1,15 @@
+{
+  "name": "pigLatin",
+  "version": "1.0.0",
+  "description": "In this kata you will write a function that translates English strings into Pig Latin.",
+  "main": "pigLatin.js",
+  "scripts": {
+    "test": "mocha pigLatin.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
